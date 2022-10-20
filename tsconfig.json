@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "strict": true,
+    "module": "esnext",
+    "allowJs": true,
+    "checkJs": true,
+    "allowSyntheticDefaultImports": true,
+    "target": "esNext",
+    "strictNullChecks": false
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
